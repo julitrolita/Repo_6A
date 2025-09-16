@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Mejores Amigos</title>
+  <link rel="stylesheet" href="css/styles.css"/>
+</head>
+<body>
+  <div class="container">
+    <nav><a href="index.html">Inicio</a></nav>
+    <h1>Lista de mejores amigos</h1>
+    <ol>
+      <li> Tobias Diaz — chispon </li>
+      <li>julian gonza — julitrolita sin</li>
+      <li>Peter eidrian — que asco un androi </li>
+    </ol>
+  </div>
+</body>
+</html>
